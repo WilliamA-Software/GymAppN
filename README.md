@@ -1,6 +1,6 @@
 # gym_appn
 
-A new Flutter project.
+A new Flutter project - Gym App N.
 
 ## Getting Started
 
