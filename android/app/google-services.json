@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185722012963",
+    "firebase_url": "https://gymusco-b1e1e.firebaseio.com",
+    "project_id": "gymusco-b1e1e",
+    "storage_bucket": "gymusco-b1e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185722012963:android:ea3e8acdd8f0bafe38b896",
+        "android_client_info": {
+          "package_name": "com.example.gym_appn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185722012963-bilf2g5tqitu7034q5cv1tee7qad1v9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsI7Im2X0B2IMLoAX8aRUaDCZy-2HwuJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185722012963-bilf2g5tqitu7034q5cv1tee7qad1v9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
